@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">henry_velasco_lab14.3</string>
+    <string name="label_image">Label Image</string>
+    <string name="image_description">Image to be labeled</string>
+</resources>
